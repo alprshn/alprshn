@@ -1,5 +1,4 @@
 ![Adsız (1619 × 686 piksel)](https://user-images.githubusercontent.com/93208734/212845241-1f946bf6-3545-423d-a571-0b63f41b8573.gif)
-utm_content=DAFK5nARSX8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
 <h1 align="center">Hi 👋, I'm Alper Şahin</h1>
 <h3 align="center">Full Stack Developer - Computer Engineering Student</h3>
 img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
@@ -7,9 +6,7 @@ img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alpersahin38&label=Profile%20views&color=0e75b6&style=flat" alt="alpersahin38" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alpersahin38" alt="alpersahin38" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/alpr_shn" target="blank"><img src="https://img.shields.io/twitter/follow/alpr_shn?logo=twitter&style=for-the-badge" alt="alpr_shn" /></a> </p>
 
 - 🌱 I’m currently learning **React Native**
 
