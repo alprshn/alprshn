@@ -3,9 +3,9 @@
 <h3 align="center">Full Stack Developer - Computer Engineering Student</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Kotlin**
 
-- 🤝 I’m looking for help with **C#, Javascript**
+- 🤝 I’m looking for help with **Kotlin, Java**
 
 - 📝 I regularly write articles on [https://medium.com/@sahinalper](https://medium.com/@sahinalper)
 
