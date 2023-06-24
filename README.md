@@ -35,4 +35,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alpersahin38&" alt="alpersahin38" /></p>
 
-<p><img align="center" width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=alpersahin38&show_icons=true&locale=en&layout=compact" alt="alpersahin38" /></p>
+<p><img align="" width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=alpersahin38&show_icons=true&locale=en&layout=compact" alt="alpersahin38" /></p>
