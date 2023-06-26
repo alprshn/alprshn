@@ -1,6 +1,6 @@
 ![Adsız (1619 × 686 piksel)](https://user-images.githubusercontent.com/93208734/212845241-1f946bf6-3545-423d-a571-0b63f41b8573.gif)
 <h1 align="center">Hi 👋, I'm Alper Şahin</h1>
-<h3 align="center">Full Stack Developer - Computer Engineering Student</h3>
+<h3 align="center">Android Developer - Computer Engineering Student</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **Kotlin**
