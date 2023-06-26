@@ -35,5 +35,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alpersahin38&" alt="alpersahin38" /></p>
 
-<p><img align="" width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=alpersahin38&show_icons=true&locale=en&layout=compact" alt="alpersahin38" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alpersahin38&theme=codeSTACKr)](https://github.com/Coopyy/Coopyy/)
 
