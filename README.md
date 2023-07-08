@@ -35,5 +35,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alprshn&" alt="alprshn" /></p>
 
-[![](https://visitcount.itsvg.in/api?id=alprshn&label=Profile%20Views&color=0&icon=2&pretty=false)](https://visitcount.itsvg.in)
+
 
