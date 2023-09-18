@@ -1,7 +1,7 @@
 ![Adsız (1619 × 686 piksel)](https://user-images.githubusercontent.com/93208734/212845241-1f946bf6-3545-423d-a571-0b63f41b8573.gif)
 <h1 align="center">Hi 👋, I'm Alper Şahin</h1>
 <h3 align="center">Android Developer - Computer Engineering Student</h3>
-<img src="https://github.com/alprshn/alprshn/assets/93208734/4628c359-6848-4e3f-bfd9-f271fd67180b" width="40" height="40" alt="alprshn" />
+<img src="https://miro.medium.com/v2/resize:fit:640/1*zzTEyTwyy7jXibtqVWg84Q.gif" width="300" height="300" alt="alprshn" />
 
 - 🌱 I’m currently learning **Kotlin**
 
