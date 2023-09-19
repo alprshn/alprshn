@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sahinalper045@gmail.com**
 
-- 🌐 My personel website **alprshn.github.io**
+- 🌐 My personel website **[https://alprshn.github.io](http://alprshn.github.io/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
