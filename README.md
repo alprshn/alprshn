@@ -7,10 +7,11 @@
 
 - 🤝 I’m looking for help with **Kotlin, Java**
 
-- 📝 I regularly write articles on [https://medium.com/@sahinalper](https://medium.com/@sahinalper)
+- 📝 I regularly write articles on **[https://medium.com/@sahinalper](https://medium.com/@sahinalper)**
 
 - 📫 How to reach me **sahinalper045@gmail.com**
 
+- 🌐 My personel website **alprshn.github.io**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
