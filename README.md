@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on **[https://medium.com/@sahinalper](https://medium.com/@sahinalper)**
 
-- 📫 How to reach me **sahinalper045@gmail.com**
+- 📫 How to reach me **dev.alprshn@gmail.com**
 
 - 🌐 My personel website **[https://alprshn.github.io](http://alprshn.github.io/)**
 
@@ -32,5 +32,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alprshn&" alt="alprshn" /></p>
 
-
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alprshnlayout=compact&langs_count=8&theme=dark"/>
 
