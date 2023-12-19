@@ -32,5 +32,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alprshn&" alt="alprshn" /></p>
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alprshnlayout=compact&langs_count=8&theme=dark"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alprshn&layout=compact&langs_count=8&theme=dark"/>
 
